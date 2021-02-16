@@ -1,0 +1,5 @@
+=hola 7
+;
+read(meme);
+cond when (> x y) do print(7) else = hola + (5 meme)
+
